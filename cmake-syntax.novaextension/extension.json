@@ -1,0 +1,11 @@
+{
+    "identifier": "computer.gareth.cmake-syntax",
+    "name": "CMake Syntax",
+    "organization": "Gareth Redman",
+    "description": "Syntax highlighting for CMake",
+    "version": "1.0",
+    "categories": ["languages"],
+    "bugs": "https://github.com/gredman/cmake-syntax-novaextension/issues",
+    "homepage": "https://github.com/gredman/cmake-syntax-novaextension",
+    "repository": "https://github.com/gredman/cmake-syntax-novaextension"
+}
